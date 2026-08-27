@@ -8,9 +8,8 @@ KEYSTONE connects customers, dispatchers, technicians, and managers in a single 
 
 # KEYSTONE — Field Service Management Platform
 
-**Live Demo:** https://keystone-frontend-imoq.onrender.com
+**Live Demo:** [   https://keystone-frontend-imoq.onrender.com    ]
 
-**API Documentation:** https://keystone-field-service-management-vjmd.onrender.com/swagger-ui/index.html
 
 ## Table of Contents
 
